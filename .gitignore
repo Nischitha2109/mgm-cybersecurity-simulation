@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Virtual machines
+*.ova
+*.ovf
+*.vdi
+*.vmdk
+*.vmem
+*.vbox
+
+# Environment / secrets
+.env
+*.key
+*.pem
+credentials.txt
+passwords.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
+*.log
