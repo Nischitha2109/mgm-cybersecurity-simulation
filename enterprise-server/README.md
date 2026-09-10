@@ -7,7 +7,7 @@ Role:
 Enterprise/File Server and Network Architecture
 
 Machine:
-enterprises2-rocky
+enterprises1-rocky
 
 Responsibilities:
 - Enterprise network architecture
